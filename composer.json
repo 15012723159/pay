@@ -1,0 +1,14 @@
+{
+    "name": "jinlinkeji/anhuipay",
+    "description": "A LIBRARY FOR ANHUI NOTTAX PAY",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "qinfuxing",
+            "email": "15012723159@163.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
