@@ -9,6 +9,6 @@
             "email": "15012723159@163.com"
         }
     ],
-    "minimum-stability": "dev-stable",
+    "minimum-stability": "stable",
     "require": {}
 }
